@@ -1,4 +1,4 @@
-California Housing Price Prediction<br>
+#California Housing Price Prediction<br>
 
 This repository contains a linear regression model implemented in Python using the scikit-learn library to predict housing prices in California based on various features.<br>
 
